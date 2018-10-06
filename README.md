@@ -3,12 +3,7 @@ Export Plex Playlists and Media (Music, Video, etc.) to Android
 
 If you like it, let me know. If you don’t like it, let me know. 😎
 
-Note that this is a bash script so it requires Linux (Redhat, Ubuntu, Fedora, Debian, etc.). 
-
-It *might* work on Mac, since they apparently run a flavor of Linux under the covers, but I 
-don't have access to a Mac and can't test it.
-
-When I get a chance, I’ll do a Windows version if nobody else does it first.
+Note that this is a bash script so it requires Bash, which typically means Linux. It *might* work on Mac, since Mac Terminal runs bash for it's shell, but I don't have access to a Mac so I can't test it.
 
 Dependencies: 
 
